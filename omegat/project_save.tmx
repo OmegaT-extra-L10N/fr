@@ -22,6 +22,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061058Z" creationid="suzume" creationdate="20210417T061058Z">
+        <seg>Impossible de refaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061044Z" creationid="suzume" creationdate="20210417T061044Z">
+        <seg>Impossible d'annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055446Z" creationid="suzume" creationdate="20210417T055446Z">
@@ -38,10 +54,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061135Z" creationid="suzume" creationdate="20210417T061135Z">
+        <seg>Choisissez le texte à coller à partir du texte récemment présent dans le presse-papiers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061148Z" creationid="suzume" creationdate="20210417T061148Z">
+        <seg>Historique du presse-papiers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060054Z" creationid="suzume" creationdate="20210417T060054Z">
         <seg>Aide au contenu disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060926Z" creationid="suzume" creationdate="20210417T060926Z">
+        <seg>Copier</seg>
       </tuv>
     </tu>
     <tu>
@@ -54,10 +94,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060936Z" creationid="suzume" creationdate="20210417T060936Z">
+        <seg>Couper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060011Z" creationid="suzume" creationdate="20210417T060011Z">
         <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061008Z" creationid="suzume" creationdate="20210417T061008Z">
+        <seg>Supprimer</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +226,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055852Z" creationid="suzume" creationdate="20210417T055852Z">
         <seg>Atteindre la ligne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061104Z" creationid="suzume" creationdate="20210417T061104Z">
+        <seg>H</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +486,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061016Z" creationid="suzume" creationdate="20210417T061016Z">
+        <seg>Coller</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061108Z" creationid="suzume" creationdate="20210417T061108Z">
+        <seg>Coller depuis l'historique</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060731Z" creationid="suzume" creationdate="20210417T060731Z">
@@ -430,10 +510,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061030Z" creationid="suzume" creationdate="20210417T061030Z">
+        <seg>Place le texte du presse-papiers à l'emplacement actuel dans le fichier texte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055907Z" creationid="suzume" creationdate="20210417T055907Z">
         <seg>Veuillez entrer un nombre entre 1 et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060911Z" creationid="suzume" creationdate="20210417T060911Z">
+        <seg>Presser sur 'F2' pour la mise au point</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +566,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061102Z" creationid="suzume" creationdate="20210417T061102Z">
+        <seg>Réapplique la dernière action annulée.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061052Z" creationid="suzume" creationdate="20210417T061052Z">
+        <seg>Refaire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regex</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060019Z" creationid="suzume" creationdate="20210417T060019Z">
         <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061013Z" creationid="suzume" creationdate="20210417T061013Z">
+        <seg>Supprime la sélection en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,10 +638,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061034Z" creationid="suzume" creationdate="20210417T061034Z">
+        <seg>Sélectionner tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a Filter Parameters File</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055232Z" creationid="suzume" creationdate="20210417T055232Z">
         <seg>Sélectionner un fichier de paramètres de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061038Z" creationid="suzume" creationdate="20210417T061038Z">
+        <seg>Sélectionne tout le texte dans le document texte actuel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060930Z" creationid="suzume" creationdate="20210417T060930Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055516Z" creationid="suzume" creationdate="20210417T055516Z">
         <seg>Fichiers TagEditor TTX (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061048Z" creationid="suzume" creationdate="20210417T061048Z">
+        <seg>Annule la dernière action.</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +770,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055310Z" creationid="suzume" creationdate="20210417T055310Z">
         <seg>Impossible de déterminer le dossier du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061041Z" creationid="suzume" creationdate="20210417T061041Z">
+        <seg>Annuler</seg>
       </tuv>
     </tu>
     <tu>
