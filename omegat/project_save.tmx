@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055446Z" creationid="suzume" creationdate="20210417T055446Z">
+        <seg>Annuler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055436Z" creationid="suzume" creationdate="20210417T055436Z">
+        <seg>Erreur de copie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055459Z" creationid="suzume" creationdate="20210417T055459Z">
+        <seg>Fichiers commentés par Doxygen (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055237Z" creationid="suzume" creationdate="20210417T055237Z">
@@ -18,6 +42,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055134Z" creationid="suzume" creationdate="20210417T055115Z">
         <seg>Les paramètres de filtre sont actuellement &lt;b&gt;Spécifiques au projet&lt;/b&gt;.&lt;br&gt;Par conséquent, après avoir cliqué sur "OK", le fichier de paramètres sera copié à cet emplacement :&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055501Z" creationid="suzume" creationdate="20210417T055501Z">
+        <seg>Fichiers HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055504Z" creationid="suzume" creationdate="20210417T055504Z">
+        <seg>Fichiers InDesign IDML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +78,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055506Z" creationid="suzume" creationdate="20210417T055506Z">
+        <seg>Fichiers JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055508Z" creationid="suzume" creationdate="20210417T055508Z">
+        <seg>Fichiers Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055242Z" creationid="suzume" creationdate="20210417T055242Z">
         <seg>Chemin manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055554Z" creationid="suzume" creationdate="20210417T055554Z">
+        <seg>Aucun élément &lt;xliff&gt; trouvé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +126,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055557Z" creationid="suzume" creationdate="20210417T055557Z">
+        <seg>Aucun élément dans le fichier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055443Z" creationid="suzume" creationdate="20210417T055443Z">
+        <seg>Correct</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055022Z" creationid="suzume" creationdate="20210417T055022Z">
@@ -78,10 +158,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055510Z" creationid="suzume" creationdate="20210417T055510Z">
+        <seg>Fichiers OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055213Z" creationid="suzume" creationdate="20210417T055213Z">
         <seg>Protéger les entrées avec state='final' (si cette option n'est pas activée, elles peuvent être modifiées).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055514Z" creationid="suzume" creationdate="20210417T055514Z">
+        <seg>Fichiers Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055512Z" creationid="suzume" creationdate="20210417T055512Z">
+        <seg>Fichiers SDL-XLIFF (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +206,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055441Z" creationid="suzume" creationdate="20210417T055441Z">
+        <seg>Désolé, il y a eu un problème lors de la copie du fichier de paramètres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055516Z" creationid="suzume" creationdate="20210417T055516Z">
+        <seg>Fichiers TagEditor TTX (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055256Z" creationid="suzume" creationdate="20210417T055256Z">
         <seg>Le fichier de paramètres n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055552Z" creationid="suzume" creationdate="20210417T055552Z">
+        <seg>L'attribut version est manquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055539Z" creationid="suzume" creationdate="20210417T055539Z">
+        <seg>Fichiers de projet Transifex (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +266,54 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055130Z" creationid="suzume" creationdate="20210417T055130Z">
         <seg>Utilisez le fichier de paramètres de filtre suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055522Z" creationid="suzume" creationdate="20210417T055522Z">
+        <seg>Fichiers TXML Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055541Z" creationid="suzume" creationdate="20210417T055541Z">
+        <seg>Fichiers XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055547Z" creationid="suzume" creationdate="20210417T055547Z">
+        <seg>Fichiers XLIFF-2 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055601Z" creationid="suzume" creationdate="20210417T055601Z">
+        <seg>Fichiers XML (Okapi - Filtre XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055607Z" creationid="suzume" creationdate="20210417T055607Z">
+        <seg>Fichiers XML (Okapi - Filtre de flux XML)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055613Z" creationid="suzume" creationdate="20210417T055613Z">
+        <seg>Fichiers YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
