@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T071143Z" creationid="suzume" creationdate="20210417T071143Z">
+        <seg>Copie la sélection actuelle dans le presse-papier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060926Z" creationid="suzume" creationdate="20210417T060926Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060019Z" creationid="suzume" creationdate="20210417T060019Z">
         <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T071208Z" creationid="suzume" creationdate="20210417T071208Z">
+        <seg>Retire et place la sélection actuelle dans le presse-papier.</seg>
       </tuv>
     </tu>
     <tu>
