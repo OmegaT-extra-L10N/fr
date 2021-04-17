@@ -1,8 +1,145 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.3_0_dc1f7028a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a554594ce" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
-   </body>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055237Z" creationid="suzume" creationdate="20210417T055237Z">
+        <seg>Fichiers de paramètres de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055134Z" creationid="suzume" creationdate="20210417T055115Z">
+        <seg>Les paramètres de filtre sont actuellement &lt;b&gt;Spécifiques au projet&lt;/b&gt;.&lt;br&gt;Par conséquent, après avoir cliqué sur "OK", le fichier de paramètres sera copié à cet emplacement :&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055147Z" creationid="suzume" creationdate="20210417T055147Z">
+        <seg>Inclure le nom de l'unité de traduction dans les commentaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055336Z" creationid="suzume" creationdate="20210417T055336Z">
+        <seg>Y a-t-il un projet ouvert ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055242Z" creationid="suzume" creationdate="20210417T055242Z">
+        <seg>Chemin manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055249Z" creationid="suzume" creationdate="20210417T055249Z">
+        <seg>Pas de fichier de paramètres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055304Z" creationid="suzume" creationdate="20210417T055304Z">
+        <seg>Pas de dossier de projet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi Filter Options</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055022Z" creationid="suzume" creationdate="20210417T055022Z">
+        <seg>Options des filtres Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055031Z" creationid="suzume" creationdate="20210417T055031Z">
+        <seg>Options de filtre Okapi XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055213Z" creationid="suzume" creationdate="20210417T055213Z">
+        <seg>Protéger les entrées avec state='final' (si cette option n'est pas activée, elles peuvent être modifiées).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055232Z" creationid="suzume" creationdate="20210417T055232Z">
+        <seg>Sélectionner un fichier de paramètres de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055221Z" creationid="suzume" creationdate="20210417T055159Z">
+        <seg>Afficher et protéger les entrées avec translate='no' (si cette option n'est pas activée : elles ne sont pas extraites)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055256Z" creationid="suzume" creationdate="20210417T055256Z">
+        <seg>Le fichier de paramètres n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055310Z" creationid="suzume" creationdate="20210417T055310Z">
+        <seg>Impossible de déterminer le dossier du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055121Z" creationid="suzume" creationdate="20210417T055121Z">
+        <seg>Utiliser les paramètres de filtre par défaut (%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055130Z" creationid="suzume" creationdate="20210417T055130Z">
+        <seg>Utilisez le fichier de paramètres de filtre suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055245Z" creationid="suzume" creationdate="20210417T055245Z">
+        <seg>Vous devez spécifier un chemin.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
 </tmx>
