@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060741Z" creationid="suzume" creationdate="20210417T060741Z">
+        <seg>Caractères :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060054Z" creationid="suzume" creationdate="20210417T060054Z">
@@ -86,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060750Z" creationid="suzume" creationdate="20210417T060750Z">
+        <seg>Encodage :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055917Z" creationid="suzume" creationdate="20210417T055917Z">
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060041Z" creationid="suzume" creationdate="20210417T060041Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060753Z" creationid="suzume" creationdate="20210417T060753Z">
+        <seg>Taille du fichier :</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +238,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060802Z" creationid="suzume" creationdate="20210417T060802Z">
+        <seg>Dernière modification :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055856Z" creationid="suzume" creationdate="20210417T055856Z">
         <seg>Numéro de ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060748Z" creationid="suzume" creationdate="20210417T060748Z">
+        <seg>Terminateur de ligne :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060838Z" creationid="suzume" creationdate="20210417T060838Z">
+        <seg>Ligne : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060736Z" creationid="suzume" creationdate="20210417T060736Z">
+        <seg>Lignes :</seg>
       </tuv>
     </tu>
     <tu>
@@ -258,6 +314,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055242Z" creationid="suzume" creationdate="20210417T055242Z">
         <seg>Chemin manquant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060848Z" creationid="suzume" creationdate="20210417T060848Z">
+        <seg>Plusieurs marqueurs à cette ligne :</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060853Z" creationid="suzume" creationdate="20210417T060853Z">
+        <seg>Occurrence de "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055022Z" creationid="suzume" creationdate="20210417T055022Z">
@@ -322,6 +394,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055031Z" creationid="suzume" creationdate="20210417T055031Z">
         <seg>Options de filtre Okapi XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060807Z" creationid="suzume" creationdate="20210417T060807Z">
+        <seg>Ancien Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +422,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060731Z" creationid="suzume" creationdate="20210417T060731Z">
+        <seg>Chemin :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055907Z" creationid="suzume" creationdate="20210417T055907Z">
         <seg>Veuillez entrer un nombre entre 1 et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060729Z" creationid="suzume" creationdate="20210417T060729Z">
+        <seg>Propriétés : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060607Z" creationid="suzume" creationdate="20210417T060607Z">
+        <seg>Remplacer :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055512Z" creationid="suzume" creationdate="20210417T055512Z">
@@ -454,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060827Z" creationid="suzume" creationdate="20210417T060827Z">
+        <seg>Défaut du système</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055516Z" creationid="suzume" creationdate="20210417T055516Z">
@@ -490,6 +602,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060010Z" creationid="suzume" creationdate="20210417T060010Z">
         <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060809Z" creationid="suzume" creationdate="20210417T060809Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,10 +662,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060811Z" creationid="suzume" creationdate="20210417T060811Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055522Z" creationid="suzume" creationdate="20210417T055522Z">
         <seg>Fichiers TXML Wordfast Pro (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060745Z" creationid="suzume" creationdate="20210417T060745Z">
+        <seg>Mots :</seg>
       </tuv>
     </tu>
     <tu>
