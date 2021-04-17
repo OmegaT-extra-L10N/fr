@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060526Z" creationid="suzume" creationdate="20210417T060526Z">
+        <seg>Rechercher :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055852Z" creationid="suzume" creationdate="20210417T055852Z">
@@ -410,6 +418,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055232Z" creationid="suzume" creationdate="20210417T055232Z">
         <seg>Sélectionner un fichier de paramètres de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060544Z" creationid="suzume" creationdate="20210417T060544Z">
+        <seg>Shift+Entrée effectue un remplacement en arrière.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060533Z" creationid="suzume" creationdate="20210417T060533Z">
+        <seg>Shift+Enter effectue une recherche en arrière</seg>
       </tuv>
     </tu>
     <tu>
