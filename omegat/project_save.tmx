@@ -558,6 +558,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135242Z" creationid="suzume" creationdate="20210417T135242Z">
+        <seg>Empacketer et supprimer le projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135233Z" creationid="suzume" creationdate="20210417T135233Z">
+        <seg>Empacketer le projet en tant que fichier OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paste</seg>
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
@@ -734,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135251Z" creationid="suzume" creationdate="20210417T135251Z">
+        <seg>Sélectionner le paquet OMT à importer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects all text in current text document.</seg>
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
@@ -878,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135215Z" creationid="suzume" creationdate="20210417T135215Z">
+        <seg>Décompresser le projet à partir du fichier OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Up</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060007Z" creationid="suzume" creationdate="20210417T060007Z">
@@ -938,6 +970,14 @@
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
         <seg>Mots:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135203Z" creationid="suzume" creationdate="20210417T135203Z">
+        <seg>Dans l'autre sens</seg>
       </tuv>
     </tu>
     <tu>
