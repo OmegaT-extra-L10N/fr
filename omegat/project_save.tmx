@@ -40,7 +40,7 @@
       <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055446Z" creationid="suzume" creationdate="20210417T055446Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
         <seg>Annuler</seg>
       </tuv>
     </tu>
@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>Characters:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060741Z" creationid="suzume" creationdate="20210417T060741Z">
-        <seg>Caractères :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Caractères:</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,15 +192,15 @@
       <tuv lang="en">
         <seg>Encoding:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060750Z" creationid="suzume" creationdate="20210417T060750Z">
-        <seg>Encodage :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Encodage:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Error</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055917Z" creationid="suzume" creationdate="20210417T055917Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073138Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
         <seg>Erreur</seg>
       </tuv>
     </tu>
@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>File Size:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060753Z" creationid="suzume" creationdate="20210417T060753Z">
-        <seg>Taille du fichier :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Taille du fichier:</seg>
       </tuv>
     </tu>
     <tu>
@@ -296,8 +296,8 @@
       <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055852Z" creationid="suzume" creationdate="20210417T055852Z">
-        <seg>Atteindre la ligne</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073138Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
+        <seg>Aller à la ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,24 +376,24 @@
       <tuv lang="en">
         <seg>Last modified:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060802Z" creationid="suzume" creationdate="20210417T060802Z">
-        <seg>Dernière modification :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Dernière modification:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055856Z" creationid="suzume" creationdate="20210417T055856Z">
-        <seg>Numéro de ligne :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073138Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
+        <seg>Ligne numéro:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Line terminator:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060748Z" creationid="suzume" creationdate="20210417T060748Z">
-        <seg>Terminateur de ligne :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Caractère de fin de ligne:</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,8 +408,8 @@
       <tuv lang="en">
         <seg>Lines:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060736Z" creationid="suzume" creationdate="20210417T060736Z">
-        <seg>Lignes :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Lignes:</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@
       <tuv lang="en">
         <seg>Old Macintosh (\r)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060807Z" creationid="suzume" creationdate="20210417T060807Z">
-        <seg>Ancien Macintosh (\r)</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="en">
         <seg>Path:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060731Z" creationid="suzume" creationdate="20210417T060731Z">
-        <seg>Chemin :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Chemin:</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +592,8 @@
       <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T072353Z" creationid="suzume" creationdate="20210417T055907Z">
-        <seg>Entrer un nombre entre 1 et</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T073244Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
+        <seg>Saisir un entier entre 1 et</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,8 +608,8 @@
       <tuv lang="en">
         <seg>Properties: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060729Z" creationid="suzume" creationdate="20210417T060729Z">
-        <seg>Propriétés : {0}</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Propriétés: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,8 @@
       <tuv lang="en">
         <seg>System Default</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060827Z" creationid="suzume" creationdate="20210417T060827Z">
-        <seg>Défaut du système</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Valeur de l'OS</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@
       <tuv lang="en">
         <seg>Words:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060745Z" creationid="suzume" creationdate="20210417T060745Z">
-        <seg>Mots :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073105Z" creationid="OmegaT Aligner" creationdate="20210417T073105Z">
+        <seg>Mots:</seg>
       </tuv>
     </tu>
     <tu>
