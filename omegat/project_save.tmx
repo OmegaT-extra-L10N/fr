@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T061238Z" creationid="suzume" creationdate="20210417T061238Z">
+        <seg>Rechercher le précédent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find what:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060200Z" creationid="suzume" creationdate="20210417T060200Z">
