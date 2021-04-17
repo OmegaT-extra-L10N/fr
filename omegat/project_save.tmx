@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060043Z" creationid="suzume" creationdate="20210417T060043Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055937Z" creationid="suzume" creationdate="20210417T055937Z">
@@ -22,10 +30,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060054Z" creationid="suzume" creationdate="20210417T060054Z">
+        <seg>Aide au contenu disponible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy Error</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055436Z" creationid="suzume" creationdate="20210417T055436Z">
         <seg>Erreur de copie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060011Z" creationid="suzume" creationdate="20210417T060011Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060005Z" creationid="suzume" creationdate="20210417T060005Z">
+        <seg>Direction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060008Z" creationid="suzume" creationdate="20210417T060008Z">
+        <seg>Bas</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060021Z" creationid="suzume" creationdate="20210417T060021Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055917Z" creationid="suzume" creationdate="20210417T055917Z">
         <seg>Erreur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060041Z" creationid="suzume" creationdate="20210417T060041Z">
+        <seg>F</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060000Z" creationid="suzume" creationdate="20210417T060000Z">
+        <seg>Rechercher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060200Z" creationid="suzume" creationdate="20210417T060200Z">
+        <seg>Chercher :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055852Z" creationid="suzume" creationdate="20210417T055852Z">
@@ -74,6 +146,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055501Z" creationid="suzume" creationdate="20210417T055501Z">
         <seg>Fichiers HTML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060032Z" creationid="suzume" creationdate="20210417T060032Z">
+        <seg>I</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060044Z" creationid="suzume" creationdate="20210417T060044Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055944Z" creationid="suzume" creationdate="20210417T055944Z">
@@ -126,10 +214,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060020Z" creationid="suzume" creationdate="20210417T060020Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060037Z" creationid="suzume" creationdate="20210417T060037Z">
+        <seg>Marquer tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055508Z" creationid="suzume" creationdate="20210417T055508Z">
         <seg>Fichiers Markdown (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060149Z" creationid="suzume" creationdate="20210417T060149Z">
+        <seg>Correspondance de la casse</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060033Z" creationid="suzume" creationdate="20210417T060033Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055907Z" creationid="suzume" creationdate="20210417T055907Z">
@@ -234,6 +354,46 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055514Z" creationid="suzume" creationdate="20210417T055514Z">
         <seg>Fichiers Qt TS (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060042Z" creationid="suzume" creationdate="20210417T060042Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060019Z" creationid="suzume" creationdate="20210417T060019Z">
+        <seg>Regex</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060002Z" creationid="suzume" creationdate="20210417T060002Z">
+        <seg>Remplacer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060035Z" creationid="suzume" creationdate="20210417T060035Z">
+        <seg>Remplacer tout</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060029Z" creationid="suzume" creationdate="20210417T060029Z">
+        <seg>Remplacer par :</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +462,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060010Z" creationid="suzume" creationdate="20210417T060010Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055310Z" creationid="suzume" creationdate="20210417T055310Z">
         <seg>Impossible de déterminer le dossier du projet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060007Z" creationid="suzume" creationdate="20210417T060007Z">
+        <seg>Haut</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +498,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055130Z" creationid="suzume" creationdate="20210417T055130Z">
         <seg>Utilisez le fichier de paramètres de filtre suivant :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060021Z" creationid="suzume" creationdate="20210417T060021Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060017Z" creationid="suzume" creationdate="20210417T060017Z">
+        <seg>Mot entier</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +570,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055245Z" creationid="suzume" creationdate="20210417T055245Z">
         <seg>Vous devez spécifier un chemin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T060024Z" creationid="suzume" creationdate="20210417T060024Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
