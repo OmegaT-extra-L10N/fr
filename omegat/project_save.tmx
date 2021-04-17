@@ -24,16 +24,16 @@
       <tuv lang="en">
         <seg>Can't Redo</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061058Z" creationid="suzume" creationdate="20210417T061058Z">
-        <seg>Impossible de refaire</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Rétablir</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Can't Undo</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061044Z" creationid="suzume" creationdate="20210417T061044Z">
-        <seg>Impossible d'annuler</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Annuler</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +70,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Comprimer tous les commentaires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Comprimer tous les plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Comprime tous les plis commentaires.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Comprime tous les plis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060054Z" creationid="suzume" creationdate="20210417T060054Z">
@@ -80,15 +112,15 @@
       <tuv lang="en">
         <seg>Copies current selection to the clipboard.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T071143Z" creationid="suzume" creationdate="20210417T071143Z">
-        <seg>Copie la sélection actuelle dans le presse-papier.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Copie la sélection dans le presse-papiers.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060926Z" creationid="suzume" creationdate="20210417T060926Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Copier</seg>
       </tuv>
     </tu>
@@ -104,7 +136,7 @@
       <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060936Z" creationid="suzume" creationdate="20210417T060936Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Couper</seg>
       </tuv>
     </tu>
@@ -120,8 +152,8 @@
       <tuv lang="en">
         <seg>Delete</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061008Z" creationid="suzume" creationdate="20210417T061008Z">
-        <seg>Supprimer</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Effacer</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +202,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055917Z" creationid="suzume" creationdate="20210417T055917Z">
         <seg>Erreur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Décomprimer tous les plis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Décomprime tous les plis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +282,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060526Z" creationid="suzume" creationdate="20210417T060526Z">
         <seg>Rechercher :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Pliage</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +400,8 @@
       <tuv lang="en">
         <seg>Line: {0}</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060838Z" creationid="suzume" creationdate="20210417T060838Z">
-        <seg>Ligne : {0}</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071844Z" creationid="OmegaT Aligner" creationdate="20210417T071844Z">
+        <seg>Ligne: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +440,8 @@
       <tuv lang="en">
         <seg>Match case</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060149Z" creationid="suzume" creationdate="20210417T060149Z">
-        <seg>Correspondance de la casse</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T072419Z" creationid="suzume" creationdate="20210417T060149Z">
+        <seg>Casse identique</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +456,8 @@
       <tuv lang="en">
         <seg>Multiple markers at this line:</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060848Z" creationid="suzume" creationdate="20210417T060848Z">
-        <seg>Plusieurs marqueurs à cette ligne :</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071844Z" creationid="OmegaT Aligner" creationdate="20210417T071844Z">
+        <seg>Plusieurs repères sur cette ligne:</seg>
       </tuv>
     </tu>
     <tu>
@@ -456,8 +512,8 @@
       <tuv lang="en">
         <seg>Occurrence of "{0}"</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060853Z" creationid="suzume" creationdate="20210417T060853Z">
-        <seg>Occurrence de "{0}"</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071844Z" creationid="OmegaT Aligner" creationdate="20210417T071844Z">
+        <seg>Présence de "{0}"</seg>
       </tuv>
     </tu>
     <tu>
@@ -504,7 +560,7 @@
       <tuv lang="en">
         <seg>Paste</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061016Z" creationid="suzume" creationdate="20210417T061016Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Coller</seg>
       </tuv>
     </tu>
@@ -528,24 +584,24 @@
       <tuv lang="en">
         <seg>Places text on clipboard at current location in text file.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061030Z" creationid="suzume" creationdate="20210417T061030Z">
-        <seg>Place le texte du presse-papiers à l'emplacement actuel dans le fichier texte.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Insert le contenu du presse-papiers à l'emplacement courant.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055907Z" creationid="suzume" creationdate="20210417T055907Z">
-        <seg>Veuillez entrer un nombre entre 1 et</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T072353Z" creationid="suzume" creationdate="20210417T055907Z">
+        <seg>Entrer un nombre entre 1 et</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Press 'F2' for focus</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T060911Z" creationid="suzume" creationdate="20210417T060911Z">
-        <seg>Presser sur 'F2' pour la mise au point</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072003Z" creationid="OmegaT Aligner" creationdate="20210417T072003Z">
+        <seg>Press 'F2' pour se concentrer</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,15 +640,15 @@
       <tuv lang="en">
         <seg>Re-applies the last action undone.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061102Z" creationid="suzume" creationdate="20210417T061102Z">
-        <seg>Réapplique la dernière action annulée.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Répète la dernière action annulée.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Redo</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061052Z" creationid="suzume" creationdate="20210417T061052Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Refaire</seg>
       </tuv>
     </tu>
@@ -608,16 +664,16 @@
       <tuv lang="en">
         <seg>Removes current selection and places it on the clipboard.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T071208Z" creationid="suzume" creationdate="20210417T071208Z">
-        <seg>Retire et place la sélection actuelle dans le presse-papier.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Coupe la sélection et la place dans le presse-papiers.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Removes current selection.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061013Z" creationid="suzume" creationdate="20210417T061013Z">
-        <seg>Supprime la sélection en cours.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Efface la sélection.</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,7 +720,7 @@
       <tuv lang="en">
         <seg>Select All</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061034Z" creationid="suzume" creationdate="20210417T061034Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Sélectionner tout</seg>
       </tuv>
     </tu>
@@ -680,8 +736,8 @@
       <tuv lang="en">
         <seg>Selects all text in current text document.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061038Z" creationid="suzume" creationdate="20210417T061038Z">
-        <seg>Sélectionne tout le texte dans le document texte actuel.</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
+        <seg>Sélectionne tout le texte du document courant.</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,7 +800,7 @@
       <tuv lang="en">
         <seg>Takes back the last action.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061048Z" creationid="suzume" creationdate="20210417T061048Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Annule la dernière action.</seg>
       </tuv>
     </tu>
@@ -762,6 +818,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055552Z" creationid="suzume" creationdate="20210417T055552Z">
         <seg>L'attribut version est manquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Active ou désactive le pli actuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071747Z" creationid="OmegaT Aligner" creationdate="20210417T071747Z">
+        <seg>Active ou désactive le pli à la position du curseur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,7 +872,7 @@
       <tuv lang="en">
         <seg>Undo</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T061041Z" creationid="suzume" creationdate="20210417T061041Z">
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
         <seg>Annuler</seg>
       </tuv>
     </tu>
