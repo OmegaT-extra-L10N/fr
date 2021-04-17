@@ -45,11 +45,11 @@
             </repository>
             <repository type="http" url="https://raw.githubusercontent.com/briacp">
                 <mapping local="/source/omt-package/omt-package.properties" repository="/plugin-omt-package/master/src/main/resources/omt-package.properties"/>
-		        <mapping local="/source/omegat-plugin-fuzzy-issues/fuzzy-issues.properties" repository="/omegat-plugin-fuzzy-issues/master/src/main/resources/fuzzy-issues.properties"/>
+		<mapping local="/source/omegat-plugin-fuzzy-issues/fuzzy-issues.properties" repository="/omegat-plugin-fuzzy-issues/master/src/main/resources/fuzzy-issues.properties"/>
             </repository>
             <repository type="http" url="https://raw.githubusercontent.com/OmegaT-L10N/fr/master">
                 <mapping local="/tm/FR.tmx" repository="/omegat/project_save.tmx"/>
-		        <mapping local="/glossary/OmegaT-L10N.txt" repository="/glossary/glossary.txt"/>
+		<mapping local="/glossary/OmegaT-L10N.txt" repository="/glossary/glossary.txt"/>
             </repository>
         </repositories>
     </project>
