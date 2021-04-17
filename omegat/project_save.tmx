@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055937Z" creationid="suzume" creationdate="20210417T055937Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055446Z" creationid="suzume" creationdate="20210417T055446Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055917Z" creationid="suzume" creationdate="20210417T055917Z">
+        <seg>Erreur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055237Z" creationid="suzume" creationdate="20210417T055237Z">
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055134Z" creationid="suzume" creationdate="20210417T055115Z">
         <seg>Les paramètres de filtre sont actuellement &lt;b&gt;Spécifiques au projet&lt;/b&gt;.&lt;br&gt;Par conséquent, après avoir cliqué sur "OK", le fichier de paramètres sera copié à cet emplacement :&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055852Z" creationid="suzume" creationdate="20210417T055852Z">
+        <seg>Atteindre la ligne</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +106,22 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055506Z" creationid="suzume" creationdate="20210417T055506Z">
         <seg>Fichiers JSON (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055944Z" creationid="suzume" creationdate="20210417T055944Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055856Z" creationid="suzume" creationdate="20210417T055856Z">
+        <seg>Numéro de ligne :</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +174,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055939Z" creationid="suzume" creationdate="20210417T055939Z">
+        <seg>O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055443Z" creationid="suzume" creationdate="20210417T055443Z">
-        <seg>Correct</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055941Z" creationid="suzume" creationdate="20210417T055941Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +210,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055510Z" creationid="suzume" creationdate="20210417T055510Z">
         <seg>Fichiers OpenXML (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T055907Z" creationid="suzume" creationdate="20210417T055907Z">
+        <seg>Veuillez entrer un nombre entre 1 et</seg>
       </tuv>
     </tu>
     <tu>
