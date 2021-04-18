@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053439Z" creationid="suzume" creationdate="20210418T053439Z">
+        <seg>Fichier de package OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Occurrence of "{0}"</seg>
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T071844Z" creationid="OmegaT Aligner" creationdate="20210417T071844Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055232Z" creationid="suzume" creationdate="20210417T055232Z">
         <seg>Sélectionner un fichier de paramètres de filtre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210417T135259Z" creationid="suzume" creationdate="20210417T135259Z">
+        <seg>Sélectionner l'emplacement et le nom du paquetage OMT</seg>
       </tuv>
     </tu>
     <tu>
