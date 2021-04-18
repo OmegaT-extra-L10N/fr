@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053523Z" creationid="suzume" creationdate="20210418T053523Z">
+        <seg>Un autre paquet portant le même nom existe déjà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055937Z" creationid="suzume" creationdate="20210417T055937Z">
@@ -134,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053500Z" creationid="suzume" creationdate="20210418T053500Z">
+        <seg>Création d'un nouveau projet à partir du paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T072134Z" creationid="OmegaT Aligner" creationdate="20210417T072134Z">
@@ -158,10 +174,50 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053557Z" creationid="suzume" creationdate="20210418T053557Z">
+        <seg>Supprimer le paquet OMT déballé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053611Z" creationid="suzume" creationdate="20210418T053611Z">
+        <seg>Suppression du projet...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Direction:</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060005Z" creationid="suzume" creationdate="20210417T060005Z">
         <seg>Direction :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053549Z" creationid="suzume" creationdate="20210418T053549Z">
+        <seg>Voulez-vous supprimer le paquet OMT ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053515Z" creationid="suzume" creationdate="20210418T053515Z">
+        <seg>Voulez-vous l'écraser avec la traduction du paquet ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053525Z" creationid="suzume" creationdate="20210418T053525Z">
+        <seg>Voulez-vous écraser ce paquet ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053447Z" creationid="suzume" creationdate="20210418T053447Z">
+        <seg>Paquet OMT non valide, le fichier "omegat.project" est manquant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is there an open project?</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055336Z" creationid="suzume" creationdate="20210417T055336Z">
@@ -510,10 +574,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053535Z" creationid="suzume" creationdate="20210418T053535Z">
+        <seg>Paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210418T053439Z" creationid="suzume" creationdate="20210418T053439Z">
         <seg>Fichier de package OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053533Z" creationid="suzume" creationdate="20210418T053533Z">
+        <seg>Le paquet OMT a été créé avec succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053603Z" creationid="suzume" creationdate="20210418T053603Z">
+        <seg>Paquet OMT importé.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053609Z" creationid="suzume" creationdate="20210418T053609Z">
+        <seg>Le projet OMT est emballé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +654,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053528Z" creationid="suzume" creationdate="20210418T053528Z">
+        <seg>Écraser le paquet OMT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053518Z" creationid="suzume" creationdate="20210418T053518Z">
+        <seg>Écraser le fichier project_save.tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>P</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060033Z" creationid="suzume" creationdate="20210417T060033Z">
@@ -578,6 +690,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T135233Z" creationid="suzume" creationdate="20210417T135233Z">
         <seg>Empacketer le projet en tant que fichier OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053606Z" creationid="suzume" creationdate="20210418T053606Z">
+        <seg>Emballage du projet OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -846,10 +966,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053538Z" creationid="suzume" creationdate="20210418T053538Z">
+        <seg>Le paquet a été déballé avec succès.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T055256Z" creationid="suzume" creationdate="20210417T055256Z">
         <seg>Le fichier de paramètres n'existe pas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053505Z" creationid="suzume" creationdate="20210418T053505Z">
+        <seg>Le projet a déjà une traduction en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,10 +1062,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053600Z" creationid="suzume" creationdate="20210418T053600Z">
+        <seg>Déballage du paquet OMT...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Up</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210417T060007Z" creationid="suzume" creationdate="20210417T060007Z">
         <seg>Haut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210418T053452Z" creationid="suzume" creationdate="20210418T053452Z">
+        <seg>Mise à jour du projet actuel avec le contenu du package OMT</seg>
       </tuv>
     </tu>
     <tu>
