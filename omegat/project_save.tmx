@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T214023Z" creationid="suzume" creationdate="20210420T214023Z">
+        <seg>Correspondance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Matches Issues</seg>
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210420T214019Z" creationid="suzume" creationdate="20210420T214019Z">
@@ -866,6 +874,14 @@
       </tuv>
       <tuv lang="fr" changeid="suzume" changedate="20210420T213907Z" creationid="suzume" creationdate="20210417T055512Z">
         <seg>SDL-XLIFF (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T214046Z" creationid="suzume" creationdate="20210420T214046Z">
+        <seg>Segment qui commence par un préfixe de correspondance</seg>
       </tuv>
     </tu>
     <tu>
