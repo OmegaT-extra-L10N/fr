@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a554594ce" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a05f7eb96" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055459Z" creationid="suzume" creationdate="20210417T055459Z">
-        <seg>Fichiers commentés par Doxygen (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213859Z" creationid="suzume" creationdate="20210417T055459Z">
+        <seg>Doxygen (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T214019Z" creationid="suzume" creationdate="20210420T214019Z">
+        <seg>Problèmes de correspondances</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto Line</seg>
       </tuv>
       <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073138Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
@@ -368,8 +376,8 @@
       <tuv lang="en">
         <seg>HTML files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055501Z" creationid="suzume" creationdate="20210417T055501Z">
-        <seg>Fichiers HTML (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213901Z" creationid="suzume" creationdate="20210417T055501Z">
+        <seg>HTML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +392,8 @@
       <tuv lang="en">
         <seg>InDesign IDML files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055504Z" creationid="suzume" creationdate="20210417T055504Z">
-        <seg>Fichiers InDesign IDML (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213902Z" creationid="suzume" creationdate="20210417T055504Z">
+        <seg>InDesign IDML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +424,8 @@
       <tuv lang="en">
         <seg>JSON files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055506Z" creationid="suzume" creationdate="20210417T055506Z">
-        <seg>Fichiers JSON (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213903Z" creationid="suzume" creationdate="20210417T055506Z">
+        <seg>JSON (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -496,8 +504,8 @@
       <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055508Z" creationid="suzume" creationdate="20210417T055508Z">
-        <seg>Fichiers Markdown (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213905Z" creationid="suzume" creationdate="20210417T055508Z">
+        <seg>Markdown (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -648,8 +656,8 @@
       <tuv lang="en">
         <seg>OpenXML files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055510Z" creationid="suzume" creationdate="20210417T055510Z">
-        <seg>Fichiers OpenXML (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213906Z" creationid="suzume" creationdate="20210417T055510Z">
+        <seg>OpenXML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,8 +744,8 @@
       <tuv lang="en">
         <seg>Please enter an integer between 1 and</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T073244Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
-        <seg>Saisir un entier entre 1 et</seg>
+      <tuv lang="fr" changeid="OmegaT Aligner" changedate="20210417T073138Z" creationid="OmegaT Aligner" creationdate="20210417T073138Z">
+        <seg>Veuillez saisir un entier entre 1 et</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +776,8 @@
       <tuv lang="en">
         <seg>Qt TS files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055514Z" creationid="suzume" creationdate="20210417T055514Z">
-        <seg>Fichiers Qt TS (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213909Z" creationid="suzume" creationdate="20210417T055514Z">
+        <seg>Qt TS (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +864,8 @@
       <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055512Z" creationid="suzume" creationdate="20210417T055512Z">
-        <seg>Fichiers SDL-XLIFF (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213907Z" creationid="suzume" creationdate="20210417T055512Z">
+        <seg>SDL-XLIFF (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +960,8 @@
       <tuv lang="en">
         <seg>TagEditor TTX files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055516Z" creationid="suzume" creationdate="20210417T055516Z">
-        <seg>Fichiers TagEditor TTX (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213910Z" creationid="suzume" creationdate="20210417T055516Z">
+        <seg>TagEditor TTX (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,8 +1024,8 @@
       <tuv lang="en">
         <seg>Transifex project files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055539Z" creationid="suzume" creationdate="20210417T055539Z">
-        <seg>Fichiers de projet Transifex (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213915Z" creationid="suzume" creationdate="20210417T055539Z">
+        <seg>Transifex (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1136,8 @@
       <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055522Z" creationid="suzume" creationdate="20210417T055522Z">
-        <seg>Fichiers TXML Wordfast Pro (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213911Z" creationid="suzume" creationdate="20210417T055522Z">
+        <seg>TXML Wordfast Pro (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1152,40 +1160,40 @@
       <tuv lang="en">
         <seg>XLIFF files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055541Z" creationid="suzume" creationdate="20210417T055541Z">
-        <seg>Fichiers XLIFF (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213916Z" creationid="suzume" creationdate="20210417T055541Z">
+        <seg>XLIFF (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>XLIFF-2 files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055547Z" creationid="suzume" creationdate="20210417T055547Z">
-        <seg>Fichiers XLIFF-2 (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213918Z" creationid="suzume" creationdate="20210417T055547Z">
+        <seg>XLIFF-2 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>XML files (Okapi - XML Filter)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055601Z" creationid="suzume" creationdate="20210417T055601Z">
-        <seg>Fichiers XML (Okapi - Filtre XML)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213929Z" creationid="suzume" creationdate="20210417T055601Z">
+        <seg>XML (Okapi - Filtre XML)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>XML files (Okapi - XML Stream Filter</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055607Z" creationid="suzume" creationdate="20210417T055607Z">
-        <seg>Fichiers XML (Okapi - Filtre de flux XML)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213950Z" creationid="suzume" creationdate="20210417T055607Z">
+        <seg>XML (Okapi - Filtre de flux XML)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>YAML files (Okapi)</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055613Z" creationid="suzume" creationdate="20210417T055613Z">
-        <seg>Fichiers YAML (Okapi)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T213952Z" creationid="suzume" creationdate="20210417T055613Z">
+        <seg>YAML (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
