@@ -1200,8 +1200,8 @@
       <tuv lang="en">
         <seg>XML files (Okapi - XML Stream Filter</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210420T213950Z" creationid="suzume" creationdate="20210417T055607Z">
-        <seg>XML (Okapi - Filtre de flux XML)</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20210420T214551Z" creationid="suzume" creationdate="20210417T055607Z">
+        <seg>XML (Okapi - Flux XML)</seg>
       </tuv>
     </tu>
     <tu>
