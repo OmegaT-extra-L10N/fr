@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_52473bd96" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_57d465e73" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -144,8 +144,8 @@
       <tuv lang="en">
         <seg>Creating new project from OMT package</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053500Z" creationid="suzume" creationdate="20210418T053500Z">
-        <seg>Création d'un nouveau projet à partir du paquet OMT</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053500Z">
+        <seg>Création d'un nouveau test à partir du paquet OMT</seg>
       </tuv>
     </tu>
     <tu>
@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>Deleting project...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053611Z" creationid="suzume" creationdate="20210418T053611Z">
-        <seg>Suppression du projet...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053611Z">
+        <seg>Suppression du test...</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +304,8 @@
       <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055134Z" creationid="suzume" creationdate="20210417T055115Z">
-        <seg>Les paramètres de filtre sont actuellement &lt;b&gt;Spécifiques au projet&lt;/b&gt;.&lt;br&gt;Par conséquent, après avoir cliqué sur "OK", le fichier de paramètres sera copié à cet emplacement :&lt;br&gt;</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T055115Z">
+        <seg>Les paramètres de filtre sont actuellement &lt;b&gt;Spécifiques au test&lt;/b&gt;.&lt;br&gt;Par conséquent, après avoir cliqué sur "OK", le fichier de paramètres sera copié à cet emplacement :&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>Is there an open project?</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055336Z" creationid="suzume" creationdate="20210417T055336Z">
-        <seg>Y a-t-il un projet ouvert ?</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T055336Z">
+        <seg>Y a-t-il un test ouvert ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,8 +560,8 @@
       <tuv lang="en">
         <seg>No Project Folder</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055304Z" creationid="suzume" creationdate="20210417T055304Z">
-        <seg>Pas de dossier de projet</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T055304Z">
+        <seg>Pas de dossier de test</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@
       <tuv lang="en">
         <seg>OMT project packaged.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053609Z" creationid="suzume" creationdate="20210418T053609Z">
-        <seg>Le projet OMT est emballé.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053609Z">
+        <seg>Le test OMT est emballé.</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,24 +696,24 @@
       <tuv lang="en">
         <seg>Pack and delete project...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T135242Z" creationid="suzume" creationdate="20210417T135242Z">
-        <seg>Empacketer et supprimer le projet...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T135242Z">
+        <seg>Empacketer et supprimer le test...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Pack project as OMT file...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T135233Z" creationid="suzume" creationdate="20210417T135233Z">
-        <seg>Empacketer le projet en tant que fichier OMT...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T135233Z">
+        <seg>Empacketer le test en tant que fichier OMT...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Packing OMT project...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053606Z" creationid="suzume" creationdate="20210418T053606Z">
-        <seg>Emballage du projet OMT...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053606Z">
+        <seg>Emballage du test OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,8 +1009,8 @@
       <tuv lang="en">
         <seg>The project already has an ongoing translation.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053505Z" creationid="suzume" creationdate="20210418T053505Z">
-        <seg>Le projet a déjà une traduction en cours.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053505Z">
+        <seg>Le test a déjà une traduction en cours.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,8 +1065,8 @@
       <tuv lang="en">
         <seg>Unable to determine the project folder.</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T055310Z" creationid="suzume" creationdate="20210417T055310Z">
-        <seg>Impossible de déterminer le dossier du projet.</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T055310Z">
+        <seg>Impossible de déterminer le dossier du test.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1081,8 +1081,8 @@
       <tuv lang="en">
         <seg>Unpack project from OMT file...</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210417T135215Z" creationid="suzume" creationdate="20210417T135215Z">
-        <seg>Décompresser le projet à partir du fichier OMT...</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210417T135215Z">
+        <seg>Décompresser le test à partir du fichier OMT...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1105,8 +1105,8 @@
       <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
-      <tuv lang="fr" changeid="suzume" changedate="20210418T053452Z" creationid="suzume" creationdate="20210418T053452Z">
-        <seg>Mise à jour du projet actuel avec le contenu du package OMT</seg>
+      <tuv lang="fr" changeid="suzume" changedate="20230201T071400Z" creationid="suzume" creationdate="20210418T053452Z">
+        <seg>Mise à jour du test actuel avec le contenu du package OMT</seg>
       </tuv>
     </tu>
     <tu>
